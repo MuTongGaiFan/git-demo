@@ -13,4 +13,4 @@ hello Mr.zhang
 
 
 	HaHa,I'm logging in to the internal System
-	Yeah!I's so cool that you can login the internal System.Also,I want login in the internal System.
+	Yeah!It's so cool that you can login the internal System.Also,I want login in the internal System.
